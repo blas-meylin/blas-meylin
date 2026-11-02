@@ -1,7 +1,7 @@
 <h1 align="center">Meylin Blas R.</h1>
 
 <p align="center">
-  Datos · Desarrollo de aplicaciones · Automatización
+  Datos y desarrollo de aplicaciones
 </p>
 
 <p align="center">
@@ -56,4 +56,3 @@ Aplicación para organizar productos y registrar ventas de mi emprendimiento.
 
 <p align="center">
   Creatividad para imaginar. Tecnología para construir.
-</p>
