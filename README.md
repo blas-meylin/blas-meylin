@@ -1,7 +1,7 @@
 <h1 align="center">Meylin Blas R.</h1>
 
 <p align="center">
-  Datos y desarrollo de aplicaciones
+  Datos y automatización
 </p>
 
 <p align="center">
