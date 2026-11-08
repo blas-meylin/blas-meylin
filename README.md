@@ -1,4 +1,4 @@
-![Meylin Blas R. - Datos y automatización](banner.png)
+![Meylin Blas R. - Datos y automatización](banner.png?v=2)
 
 ## Sobre mí
 
