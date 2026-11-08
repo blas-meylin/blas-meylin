@@ -19,25 +19,33 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 **Tecnologías:** React, TypeScript y Canva Apps SDK.  
 **Estado:** Versión 1.0 funcional en el entorno de desarrollo de Canva.
 
-[Ver código y capturas del proyecto](https://github.com/blas-meylin/lettra-colors-canva-app)
-
 <p align="center">
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" alt="Lettra Colors en el editor de Canva" width="600" />
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" alt="Interfaz de Lettra Colors dentro del editor de Canva" width="350" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/blas-meylin/lettra-colors-canva-app">Ver código, capturas e instrucciones</a>
+</p>
+
+---
+
 ### Lettra Hub
 
-Herramienta para organizar productos y registrar ventas de mi emprendimiento. Incluye búsqueda, consulta, creación, edición y eliminación de productos.
+Herramienta en desarrollo para organizar productos y registrar ventas de mi emprendimiento.
+
+- Búsqueda y consulta de productos.
+- Creación, edición y eliminación de productos.
+- Registro de ventas.
 
 **Tecnologías:** React, TypeScript y Vite.  
 **Estado:** En desarrollo.
 
 <h2 align="center">Mi aprendizaje actual</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-C49A32?style=flat-square" alt="SQL" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-C49A32?style=flat-square&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-C49A32?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Fundamentos_de_datos-D8C8AC?style=flat-square" alt="Fundamentos de datos" />
 </p>
@@ -46,12 +54,13 @@ Herramienta para organizar productos y registrar ventas de mi emprendimiento. In
 - Fundamentos de programación con Python.
 - Aplicación de estos conocimientos en proyectos prácticos.
 
-<h2 align="center">Herramientas utilizadas en mis proyectos</h2>
+<h2 align="center">Herramientas de mis proyectos</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-202020?style=flat-square&logo=react&logoColor=C49A32" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-202020?style=flat-square&logo=typescript&logoColor=C49A32" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-202020?style=flat-square&logo=vite&logoColor=C49A32" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-202020?style=flat-square&logo=git&logoColor=C49A32" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-202020?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-202020?style=flat-square&logo=github&logoColor=C49A32" alt="GitHub" />
   <img src="https://img.shields.io/badge/Canva-202020?style=flat-square&logo=canva&logoColor=C49A32" alt="Canva" />
 </p>
