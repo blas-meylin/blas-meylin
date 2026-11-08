@@ -22,19 +22,19 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 
 <p align="center">
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" width="105" alt="Interfaz de Lettra Colors">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" width="105" alt="Lettra Colors en Canva">
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/02_app_en_canva.png" width="105" alt="Captura 2 de Lettra Colors">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/02_interfaz_lettra_colors.png" width="105" alt="Interfaz de Lettra Colors">
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/03_app_en_canva.png" width="105" alt="Captura 3 de Lettra Colors">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/03_portada_actualizada.png" width="105" alt="Portada actualizada">
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/04_app_en_canva.png" width="105" alt="Captura 4 de Lettra Colors">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/04_contraportada_actualizada.png" width="105" alt="Contraportada actualizada">
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/05_app_en_canva.png" width="105" alt="Captura 5 de Lettra Colors">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/05_lomos_actualizados.png" width="105" alt="Lomos actualizados">
   </a>
 </p>
 
