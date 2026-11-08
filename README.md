@@ -1,12 +1,12 @@
 ![Meylin Blas R. - Datos y automatización](banner-perfil.png)
 
-## Sobre mí
+<h2 align="center">Sobre mí</h2>
 
 Soy Meylin, creadora de Lettra, un emprendimiento de plantillas escolares digitales. Desarrollo herramientas para facilitar tareas de diseño y organización de mi emprendimiento.
 
 Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. Aquí comparto mis proyectos y cómo aplico lo que voy aprendiendo.
 
-## Proyectos destacados
+<h2 align="center">Proyectos destacados</h2>
 
 ### Lettra Colors
 
@@ -28,7 +28,7 @@ Herramienta para organizar productos y registrar ventas de mi emprendimiento. In
 **Tecnologías:** React, TypeScript y Vite.  
 **Estado:** En desarrollo.
 
-## Mi aprendizaje actual
+<h2 align="center">Mi aprendizaje actual</h2>
 
 <p>
   <img src="https://img.shields.io/badge/SQL-C49A32?style=flat-square" alt="SQL" />
@@ -40,7 +40,7 @@ Herramienta para organizar productos y registrar ventas de mi emprendimiento. In
 - Fundamentos de programación con Python.
 - Aplicación de estos conocimientos en proyectos prácticos.
 
-## Herramientas utilizadas en mis proyectos
+<h2 align="center">Herramientas utilizadas en mis proyectos</h2>
 
 <p>
   <img src="https://img.shields.io/badge/React-202020?style=flat-square&logo=react&logoColor=C49A32" alt="React" />
