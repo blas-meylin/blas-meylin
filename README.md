@@ -21,6 +21,12 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 
 [Ver código y capturas del proyecto](https://github.com/blas-meylin/lettra-colors-canva-app)
 
+<p align="center">
+  <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" alt="Lettra Colors en el editor de Canva" width="600" />
+  </a>
+</p>
+
 ### Lettra Hub
 
 Herramienta para organizar productos y registrar ventas de mi emprendimiento. Incluye búsqueda, consulta, creación, edición y eliminación de productos.
