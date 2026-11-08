@@ -6,6 +6,28 @@ Soy Meylin, creadora de Lettra, un emprendimiento de plantillas escolares digita
 
 Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. Aquí comparto mis proyectos y cómo aplico lo que voy aprendiendo.
 
+## Proyectos destacados
+
+### Lettra Colors
+
+Herramienta para Canva que facilita la personalización de portadas, contraportadas y lomos escolares mediante cambios de colores y textos.
+
+- Selección entre 21 paletas de colores.
+- Recoloración de ilustraciones SVG compatibles.
+- Reemplazo de nombres, apellidos y grado en las plantillas.
+
+**Tecnologías:** React, TypeScript y Canva Apps SDK.  
+**Estado:** Versión 1.0 funcional en el entorno de desarrollo de Canva.
+
+[Ver código y capturas del proyecto](https://github.com/blas-meylin/lettra-colors-canva-app)
+
+### Lettra Hub
+
+Herramienta para organizar productos y registrar ventas de mi emprendimiento. Incluye búsqueda, consulta, creación, edición y eliminación de productos.
+
+**Tecnologías:** React, TypeScript y Vite.  
+**Estado:** En desarrollo.
+
 ## Mi aprendizaje actual
 
 <p>
@@ -17,22 +39,6 @@ Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. Aquí comparto
 - Consultas y organización de información en bases de datos.
 - Fundamentos de programación con Python.
 - Aplicación de estos conocimientos en proyectos prácticos.
-
-## Proyectos
-
-### Lettra Colors
-
-Herramienta para Canva que facilita la personalización de portadas escolares mediante cambios de colores y textos.
-
-**Tecnologías del proyecto:** React, TypeScript y Canva Apps SDK.
-
-### Lettra Hub
-
-Herramienta para organizar productos y registrar ventas de mi emprendimiento.
-
-**Estado:** En desarrollo.
-
-**Tecnologías del proyecto:** React, TypeScript y Vite.
 
 ## Herramientas utilizadas en mis proyectos
 
