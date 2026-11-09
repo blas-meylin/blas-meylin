@@ -48,7 +48,7 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 
 <p align="center">
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="lettra-carrusel.gif" width="700" alt="Carrusel animado de Lettra Colors" />
+    <img src="lettra_carrusel_best_hq.gif" width="700" alt="Carrusel animado de Lettra Colors" />
   </a>
 </p>
 
