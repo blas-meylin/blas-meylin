@@ -48,19 +48,7 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 
 <p align="center">
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" width="105" alt="Lettra Colors en Canva" />
-  </a>
-  <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/02_interfaz_lettra_colors.png" width="105" alt="Interfaz de Lettra Colors" />
-  </a>
-  <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/03_portada_actualizada.png" width="105" alt="Portada actualizada" />
-  </a>
-  <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/04_contraportada_actualizada.png" width="105" alt="Contraportada actualizada" />
-  </a>
-  <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/05_lomos_actualizados.png" width="105" alt="Lomos actualizados" />
+    <img src="lettra_colors_carrusel_3d.gif" width="360" alt="Carrusel animado de Lettra Colors" />
   </a>
 </p>
 
@@ -86,12 +74,18 @@ Herramienta en desarrollo para organizar productos y registrar ventas de mi empr
 <h2 align="center">Aprendizaje actual</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-C49A32?style=flat-square&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-C49A32?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Fundamentos_de_datos-D8C8AC?style=flat-square" alt="Fundamentos de datos" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="42" alt="SQL con PostgreSQL" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="42" alt="Python" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" alt="Microsoft Excel" />
+</p>
+
+<p align="center">
+  <sub>SQL · Python · Excel</sub>
 </p>
 
 - Consultas y organización de información en bases de datos.
 - Fundamentos de programación con Python.
+- Análisis y organización de datos con Excel.
 - Aplicación de estos conocimientos en proyectos prácticos.
-
