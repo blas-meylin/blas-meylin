@@ -1,3 +1,4 @@
+
 ![Meylin Blas R. - Datos y automatización](banner-perfil.png)
 
 <h2 align="center">Sobre mí</h2>
@@ -6,7 +7,7 @@ Soy Meylin, creadora de Lettra, un emprendimiento de plantillas escolares digita
 
 Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. También me interesa la inteligencia artificial y la automatización. Aquí comparto mis proyectos y cómo aplico lo que voy aprendiendo.
 
----
+<br>
 
 <h2 align="center">Tecnologías y herramientas</h2>
 
@@ -30,7 +31,7 @@ Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. También me in
   <sub>React · TypeScript · Vite · Git · GitHub · VS Code · PostgreSQL</sub>
 </p>
 
----
+<br>
 
 <h2 align="center">Proyectos destacados</h2>
 
@@ -47,7 +48,7 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 
 <p align="center">
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="lettra_carrusel_best_hq.gif" alt="Carrusel de vistas previas de Lettra Colors" width="700" />
+    <img src="lettra-carrusel.gif" width="700" alt="Carrusel animado de Lettra Colors" />
   </a>
 </p>
 
@@ -68,16 +69,16 @@ Herramienta en desarrollo para organizar productos y registrar ventas de mi empr
 **Tecnologías:** React, TypeScript y Vite.  
 **Estado:** En desarrollo.
 
----
+<br>
 
 <h2 align="center">Aprendizaje actual</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" width="42" alt="SQL y PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="42" alt="SQL con PostgreSQL" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=py" width="42" alt="Python" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Excel-1F6F43?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" alt="Microsoft Excel" />
 </p>
 
 <p align="center">
