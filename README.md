@@ -14,19 +14,7 @@ Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. También me in
 <h2 align="center">Tecnologías y herramientas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="38" alt="React" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="38" alt="TypeScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" width="38" alt="Vite" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="38" alt="VS Code" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="38" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,git,github,vscode,postgres&theme=dark" height="44" alt="React, TypeScript, Vite, Git, GitHub, VS Code y PostgreSQL" />
 </p>
 
 <p align="center">
@@ -76,11 +64,9 @@ Herramienta en desarrollo para organizar productos y registrar ventas de mi empr
 <h2 align="center">Aprendizaje actual</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" width="42" alt="SQL con PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,py&theme=dark" height="44" alt="PostgreSQL y Python" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=py" width="42" alt="Python" />
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" alt="Microsoft Excel" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="44" alt="Microsoft Excel" />
 </p>
 
 <p align="center">
