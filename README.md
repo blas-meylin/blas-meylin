@@ -1,6 +1,8 @@
 
 ![Meylin Blas R. - Datos y automatización](banner-perfil.png)
 
+<br>
+
 <h2 align="center">Sobre mí</h2>
 
 Soy Meylin, creadora de Lettra, un emprendimiento de plantillas escolares digitales. Desarrollo herramientas para facilitar tareas de diseño y organización de mi emprendimiento.
@@ -56,7 +58,7 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">Ver código, capturas e instrucciones</a>
 </p>
 
----
+<br>
 
 ### Lettra Hub
 
