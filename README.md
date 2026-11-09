@@ -5,7 +5,33 @@
 
 Soy Meylin, creadora de Lettra, un emprendimiento de plantillas escolares digitales. Desarrollo herramientas para facilitar tareas de diseño y organización de mi emprendimiento.
 
-Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. Aquí comparto mis proyectos y cómo aplico lo que voy aprendiendo.
+Actualmente estoy aprendiendo SQL, Python y fundamentos de datos. También me interesa la inteligencia artificial y la automatización. Aquí comparto mis proyectos y cómo aplico lo que voy aprendiendo.
+
+<br>
+
+<h2 align="center">Tecnologías y herramientas</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="38" alt="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="38" alt="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="38" alt="Vite" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="38" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="38" alt="VS Code" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="38" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <sub>React · TypeScript · Vite · Git · GitHub · VS Code · PostgreSQL</sub>
+</p>
+
+<br>
 
 <h2 align="center">Proyectos destacados</h2>
 
@@ -22,19 +48,19 @@ Herramienta para Canva que facilita la personalización de portadas, contraporta
 
 <p align="center">
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" width="105" alt="Lettra Colors en Canva">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/01_app_en_canva.png" width="105" alt="Lettra Colors en Canva" />
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/02_interfaz_lettra_colors.png" width="105" alt="Interfaz de Lettra Colors">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/02_interfaz_lettra_colors.png" width="105" alt="Interfaz de Lettra Colors" />
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/03_portada_actualizada.png" width="105" alt="Portada actualizada">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/03_portada_actualizada.png" width="105" alt="Portada actualizada" />
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/04_contraportada_actualizada.png" width="105" alt="Contraportada actualizada">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/04_contraportada_actualizada.png" width="105" alt="Contraportada actualizada" />
   </a>
   <a href="https://github.com/blas-meylin/lettra-colors-canva-app">
-    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/05_lomos_actualizados.png" width="105" alt="Lomos actualizados">
+    <img src="https://raw.githubusercontent.com/blas-meylin/lettra-colors-canva-app/master/capturas/05_lomos_actualizados.png" width="105" alt="Lomos actualizados" />
   </a>
 </p>
 
@@ -55,7 +81,9 @@ Herramienta en desarrollo para organizar productos y registrar ventas de mi empr
 **Tecnologías:** React, TypeScript y Vite.  
 **Estado:** En desarrollo.
 
-<h2 align="center">Mi aprendizaje actual</h2>
+<br>
+
+<h2 align="center">Aprendizaje actual</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-C49A32?style=flat-square&logoColor=white" alt="SQL" />
@@ -67,13 +95,3 @@ Herramienta en desarrollo para organizar productos y registrar ventas de mi empr
 - Fundamentos de programación con Python.
 - Aplicación de estos conocimientos en proyectos prácticos.
 
-<h2 align="center">Herramientas de mis proyectos</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-202020?style=flat-square&logo=react&logoColor=C49A32" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-202020?style=flat-square&logo=typescript&logoColor=C49A32" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-202020?style=flat-square&logo=vite&logoColor=C49A32" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-202020?style=flat-square&logo=git&logoColor=C49A32" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-202020?style=flat-square&logo=github&logoColor=C49A32" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Canva-202020?style=flat-square&logo=canva&logoColor=C49A32" alt="Canva" />
-</p>
